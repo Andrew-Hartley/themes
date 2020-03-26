@@ -467,3 +467,10 @@ a.lnkPremiere:active {
 }
 
 
+
+
+//update for button glow
+button.paper-icon-button-light:focus {
+    background-color: rgba(255, 192, 203,.2);
+}
+
