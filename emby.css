@@ -468,20 +468,7 @@ a.lnkPremiere:active {
 
 
 
+//change slider
+.emby-slider-background-lower, .sliderBubble, .emby-slider::-webkit-slider-thumb {background:#FFA0D0 !important;} /*Chrome*/
 
-//update for button glow
-/*Firefox Focus*/
-.mdl-slider:focus::-moz-range-thumb {
-    box-shadow: 0 0 0 10px rgba(153,204,255,.26) !important; 
-}
-/*Chrome Focus*/
-.mdl-slider:focus::-webkit-slider-thumb{-webkit-box-shadow:0 0 0 10px rgba(153,204,255,.26); box-shadow:0 0 0 10px rgba(153,204,255,.26) !important;
-}
-/*FireFox*/
-.mdl-slider::-moz-range-thumb {
-    background: #4285F4 !important;
-}
-.mdl-slider::-moz-range-progress {
-    background: #4285F4 !important;
-}
-
+.emby-slider::-moz-range-thumb, .mdl-slider:active::-moz-range-thumb, .emby-slider::-moz-range-progress, .sliderBubble {background: #FFA0D0 !important;} /*FireFox*/
