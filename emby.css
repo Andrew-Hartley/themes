@@ -466,12 +466,6 @@ a.lnkPremiere:active {
     display: none;
 }
 
-/*Adding button colors*/
-.cardOverlayButtonIcon{
-  background-color: #e662a4 !important;
-  color: #ffc0cb !important;
-}
-
 /*Getting rid of that ugly green glow (sorry)*/
 .itemAction.paper-icon-button-light {
   background-color: #FFFFFF00 !important;
