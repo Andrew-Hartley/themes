@@ -474,16 +474,16 @@ a.lnkPremiere:active {
 
 /*Getting rid of that ugly green glow (sorry)*/
 .itemAction.paper-icon-button-light, {
-  background-color: #FFFFFF00;
+  background-color: #FFFFFF00 !important;
   
 }
 
 .headerButton.paper-icon-button-light{
-  background-color: #FFFFFF00;
+  background-color: #FFFFFF00 !important;
 }
 
 headerButton.paper-icon-button-light{
-  background-color: #FFFFFF;
+  background-color: #FFFFFF !important;
 }
 
 
