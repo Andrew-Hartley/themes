@@ -472,6 +472,13 @@ a.lnkPremiere:active {
   color: #ffc0cb !important;
 }
 
+/*Getting rid of that ugly green glow (sorry)*/
+.cardOverlayButton, .cardOverlayButton-hover, .itemAction, .paper-icon-button-light{
+  background-color: #FFFFFF00;
+}
+
+
+
 
 
 /*change slider*/
