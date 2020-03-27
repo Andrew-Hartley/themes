@@ -482,8 +482,8 @@ a.lnkPremiere:active {
   background-color: #FFFFFF00 !important;
 }
 
-headerButton.paper-icon-button-light{
-  background-color: #FFFFFF !important;
+.paper-icon-button-light{
+  background-color: #FFFFFF00 !important;
 }
 
 
