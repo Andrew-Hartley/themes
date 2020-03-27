@@ -458,7 +458,7 @@ a.lnkPremiere:hover {
 a.lnkPremiere:active {
   color: #FFA0D0 !important; }
 
-//new stuff
+/*new stuff */
 .osdPoster-img {
     max-height: none !important;
 }
@@ -466,9 +466,15 @@ a.lnkPremiere:active {
     display: none;
 }
 
+/*Adding button colors*/
+.cardOverlayButtonIcon{
+  background-color: #e662a4 !important;
+  color: #ffc0cb !important;
+}
 
 
-//change slider
+
+/*change slider*/
 .emby-slider-background-lower, .sliderBubble, .emby-slider::-webkit-slider-thumb {background:#FFA0D0 !important;} /*Chrome*/
 
 .emby-slider::-moz-range-thumb, .mdl-slider:active::-moz-range-thumb, .emby-slider::-moz-range-progress, .sliderBubble {background: #FFA0D0 !important;} /*FireFox*/
